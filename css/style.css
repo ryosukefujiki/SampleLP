@@ -358,8 +358,16 @@ section {
     margin-right: 15px;
 }
 
-#navigation-logo {
-    display: none;
+#logo div{
+  color: #f9f9f9;
+  font-size: 28px;
+  margin-right: 10px;
+  font-weight: 900;
+  padding: 0;
+}
+#logo #navigation-logo {
+  color: #272727;
+  display: none;
 }
 
 .nav-solid #logo #banner-logo {
@@ -788,6 +796,7 @@ h6 {
 }
 
 #banner h1 {
+    color: #f9f9f9;
     padding-top: 5%;
 }
 
@@ -2326,7 +2335,3 @@ blockquote {
     }
 
 }
-
-
-
-
